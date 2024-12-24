@@ -12,6 +12,7 @@ Passionate about building tools, exploring automation, and solving real-world ch
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
@@ -32,7 +33,7 @@ class Developer:
     def __init__(self):
         self.name = "Serbian" 
         self.focus = "Automation & OSINT"
-        self.skills = ["Python", "Rust", "TypeScript", "Java", "C#", "C++", "Lua", "Linux"]
+        self.skills = ["Python", "Rust", "TypeScript", "Java", "C#", "C++", "Lua", "Linux", "Arduino"]
     
     def say_hi(self):
         return "Build, Explore, Innovate! 🚀"
