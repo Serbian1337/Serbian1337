@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there! we are Serbian 
 
-<!--
-**Serbian1337/Serbian1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Passionate about building tools, exploring automation, and solving real-world challenges. Always curious, always learning.  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects & Contributions
+- 🛠️ Tools for data scraping and parsing  
+- 🌐 OSINT platforms and automation  
+- 📂 Useful scripts and developer resources  
+
+## 📊 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serbian1337&show_icons=true&theme=radical) 
+
+## 🤝 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)  
+[![Profile Views](https://moe-counter.glitch.me/get/@:YourName)](https://github.com/YourGitHubUsername)  
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Serbian" 
+        self.focus = "Automation & OSINT"
+        self.skills = ["Python", "Linux", "Data Parsing"]
+    
+    def say_hi(self):
+        return "Build, Explore, Innovate! 🚀"
